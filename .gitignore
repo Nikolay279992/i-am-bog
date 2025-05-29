@@ -1,7 +1,7 @@
 # Игнорировать конфигурационные файлы с токенами, ключами и паролями
 config.py
 sa_key.json
-.env
+e.env
 db.py
 get_iam_token.py
 
